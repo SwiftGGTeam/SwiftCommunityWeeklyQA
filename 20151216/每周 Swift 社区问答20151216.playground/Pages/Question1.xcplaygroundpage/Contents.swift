@@ -1,8 +1,13 @@
 /*:
-# 每周SWIFT问答社区
+# 每周 Swift 问答
 ### **Version:** 第一期
-### **Date:** 2015-12-13
+### **Date:** 2015-12-16
 ### **Author:** [shanks](http://codebuild.me) & [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)
+
+### 更多Swift优秀文章请访问 [SwiftGG](http://swift.gg)
+
+![](http://static.zybuluo.com/numbbbbb/wox80orj8gmlh0zumt3a0x23/logo.png)
+
 */
 
 
