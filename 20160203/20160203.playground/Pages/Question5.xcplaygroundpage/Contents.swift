@@ -29,7 +29,7 @@ class Foo {
     var name: String = "" { didSet { print("name has been set") } }
 }
 
-class Bar: Foo1 {
+class Bar: Foo {
     override var name: String  {
         didSet {
             print("print this first")
