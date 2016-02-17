@@ -32,7 +32,7 @@ Question5:
     [xxx](Question5)
 
 Question6:
-    [xxx](Question7)
+    [xxx](Question6)
 
 Question7:
     [xxx](Question7)
